@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "465072338601",
+    "firebase_url": "https://message-notified.firebaseio.com",
+    "project_id": "message-notified",
+    "storage_bucket": "message-notified.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465072338601:android:a1c38f35c39a599f42dbb8",
+        "android_client_info": {
+          "package_name": "com.example.fluttermessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465072338601-02e5sflo3dk0k2cmllf2m0rocrhcgrhi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKIyz6NIoSzJCACqoiEc_NK_S60Ze2JWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465072338601-02e5sflo3dk0k2cmllf2m0rocrhcgrhi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
